@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.69d4651191fe410b6256df312b5f172d.js"
+  "/precache-manifest.1f688366ee98524389642531f4e5a667.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "oscar"});

@@ -151,6 +151,4 @@ label:hover {
   margin: 0;
   transition: all 1.5s linear, margin 0s linear 0s;
 }
-
-
 </style>

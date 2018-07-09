@@ -109,7 +109,7 @@ body {
     position: fixed;
     text-align: center;
     color:red;
-    left: 95%;
+    left: 80%;
     top: 10%;
     z-index: 100;
 }
@@ -161,7 +161,7 @@ body {
     background: #fff;
     margin: 0;
     padding: 28px;
-    width: 264px;
+    width: 300px;
     overflow: hidden;
     list-style: none;
 }
