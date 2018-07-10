@@ -11,7 +11,7 @@
             <p class="left-align">
               This site is intended to help you succeed in college and introduce 
               you to the academic profession. I want you to experience the joy of 
-              scholarship.<a href="#modal-1" class="cd-modal-trigger">HBCUs</a>
+              scholarship.
             </p>
             
             <p class="left-align">
