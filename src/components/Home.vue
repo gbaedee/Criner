@@ -120,7 +120,7 @@ a {
 
 /* hide and show image */
 label {
-  color: red;
+  color: blue;
 }
 label:hover {
   text-decoration: underline;
